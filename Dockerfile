@@ -1,4 +1,4 @@
-FROM openjdk:16.0.2
+FROM openjdk:18.0.2.1-slim
 MAINTAINER Abhisek Datta <abhisek@appsecco.com>
 
 RUN apt-get update
